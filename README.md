@@ -1,6 +1,8 @@
 # Call-Of-Souls
 
-Multiplayer 2D PVP shooter.
+Multiplayer 2D PVP shooter made with PUN2.
+
+https://user-images.githubusercontent.com/86905093/187167830-3f2bc676-5d58-491e-b7fe-16345cdeeae1.mp4
 
 ![Screenshot](https://sun9-26.userapi.com/s/v1/if2/PGN9Vi4y4bGKlOCGkUa4s0JOOM34UVxG4SQSkidGsRsDLlKcchjQknc_mefveLl8xn3uCAUNKFTIGsLY-qGHE0VB.jpg?size=1920x1080&quality=96&type=album)
 
