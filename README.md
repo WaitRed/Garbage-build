@@ -10,7 +10,30 @@ You also have three shooting skills which are different from each other. Skills 
 
 You can move by [***WASD***] keys and press [***Shift***] to teleport in direction to your mouse position. You can aim by your mouse and click the [***Left button***] to use one type of changeable skills and click the [***right button***] to use a fireball. Each skill has a CD. You can see a CD timer in the left buttom corner of your screen for teleport [<img src="https://user-images.githubusercontent.com/86905093/187185383-f91ce73c-da0e-48ee-b776-02fc3b901191.png" width="4%">]. For shooting skills CD timer is displayed on the mouse pointer [<img src="https://user-images.githubusercontent.com/86905093/187185978-4333f402-72de-4496-a35b-366e7399109f.png" width="4%">]. For better navigation and track objects on the game field here are pointers [<img src="https://user-images.githubusercontent.com/86905093/187187119-5caa2ed8-698a-4b8c-8f4f-0ed7b6d62ffa.png" width="4%">]
 
+### Features
+
+Multiplayer in this game was made on PUN2. All graphics are self-made. Effects were created in VFX Graph and trails - with help of Trail Renderer component.
+
+List of used packages and assets:
+
+- PUN2
+- Trails
+- VFX Graph
+- Shader Graph
+- Cinemachine
+- URP
+
+Here are unique features:
+
+- Self-made graphics
+- Skills mechanics
+- PVP gameplay
+
 ### Gameplay video
 <sub>Click on image to play</sub>
 
 [<img src="https://img.youtube.com/vi/6ANTWmOSPlQ/maxresdefault.jpg" width="50%">](https://youtu.be/6ANTWmOSPlQ)
+
+### Summary
+
+This game can give you and your friend a lot of ~~pain~~ fun and it may be replayable! It was made for three weeks.
