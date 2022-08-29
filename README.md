@@ -32,7 +32,7 @@ Here are unique features:
 ### Gameplay video
 <sub>Click on image to play</sub>
 
-[<img src="https://img.youtube.com/vi/6ANTWmOSPlQ/maxresdefault.jpg" width="50%">](https://youtu.be/6ANTWmOSPlQ)
+[<img src="https://img.youtube.com/vi/6ANTWmOSPlQ/maxresdefault.jpg" width="100%">](https://youtu.be/6ANTWmOSPlQ)
 
 ### Summary
 
