@@ -1,5 +1,9 @@
 # Call Of Souls
 
+### Note
+
+<sub>Unfortunately, the code of this project is lost</sub>
+
 ### Description
 
 This is a 2D PVP shooter on PC. Made in dark ghost style. Here are you need to transport the green ectoplasm
