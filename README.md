@@ -2,7 +2,7 @@
 
 
 
-<sub>**Note:** Unfortunately, the code of this project is lost</sub>
+<sub>**Note:** Unfortunately, the code of this project has been lost</sub>
 
 ### Description
 
