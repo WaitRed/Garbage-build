@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a 2D PVP shooter. Made in dark ghost style. Here are you need to transport the green ectoplasm
+This is a 2D PVP shooter on PC. Made in dark ghost style. Here are you need to transport the green ectoplasm
 [<img src="https://user-images.githubusercontent.com/86905093/187181467-5d1af425-60dd-4e33-8bd5-580c9d6bb226.png" width="4%">] to the portal [<img src="https://user-images.githubusercontent.com/86905093/187182041-f59de9dd-b333-4dbd-b819-2b805146dd14.png" width="2%">] and prevent another player from doing it. If you collect 15 points you win! Players, ectoplasm and portal spawn on graves [<img src="https://user-images.githubusercontent.com/86905093/187186852-4dadbf9c-352d-4e44-8064-d3f555a1a60a.png" width="3%">] randomly.
 You also have three shooting skills which are different from each other. Skills change after transporting an ectoplasm to a portal.
 
@@ -32,7 +32,7 @@ Here are unique features:
 ### Gameplay video
 <sub>Click on image to play</sub>
 
-[<img src="https://img.youtube.com/vi/6ANTWmOSPlQ/maxresdefault.jpg" width="100%">](https://youtu.be/6ANTWmOSPlQ)
+[<img src="https://img.youtube.com/vi/6ANTWmOSPlQ/maxresdefault.jpg" width="50%">](https://youtu.be/6ANTWmOSPlQ)
 
 ### Summary
 
