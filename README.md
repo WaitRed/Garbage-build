@@ -1,8 +1,8 @@
 # Call Of Souls
 
-### Note
 
-<sub>Unfortunately, the code of this project is lost</sub>
+
+<sub>**Note:** Unfortunately, the code of this project is lost</sub>
 
 ### Description
 
